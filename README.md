@@ -23,9 +23,12 @@ Purpose: Most of us keep our keys on a counter or hang them to a key-stand after
  One can program the Key-Tag circuit board using the MSP-FET: http://www.ti.com/tool/MSP-FET
  It can also be programmed through a TI evaluation board provided you have a programmar cable: http://www.tag-connect.com/TC2050-IDC-430
  
+ Requires Code Composer Studio. 
+ 
  To see the schematic and layout design of this project: https://youtu.be/E2SBVupF5sg
  
  To see how to use video: https://youtu.be/DxNbs5W4KzA
  
+ Other details on this project are given in a pdf attached.
 
   
