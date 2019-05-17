@@ -18,12 +18,13 @@ Purpose: Most of us keep our keys on a counter or hang them to a key-stand after
  
  The Key chain will beep if it senses no acceleration for an hour continously. To stop the key chain from beeping and flasing lights  accelerate it once. The timer will reset everytime there is an acceleration.
  
- To shut it off anad turn it back On, long press the switch button for more than 5 seconds and less than 10 seconds.
+ To shut it off and turn it back On, long press the switch button for more than 5 seconds and less than 10 seconds.
  
  One can program the Key-Tag circuit board using the MSP-FET: http://www.ti.com/tool/MSP-FET
  It can also be programmed through a TI evaluation board provided you have a programmar cable: http://www.tag-connect.com/TC2050-IDC-430
  
  To see the schematic and layout design of this project: https://youtu.be/E2SBVupF5sg
+ 
  To see how to use video: 
  
 
