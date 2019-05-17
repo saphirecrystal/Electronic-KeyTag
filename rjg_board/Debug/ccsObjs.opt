@@ -1,0 +1,1 @@
+"./CLOCK.obj" "./FUNCTIONS.obj" "./GPIO.obj" "./I2C.obj" "./RTC.obj" "./TIMER.obj" "./main.obj" "../lnk_msp430fr2422.cmd" -llibc.a 
