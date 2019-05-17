@@ -25,7 +25,7 @@ Purpose: Most of us keep our keys on a counter or hang them to a key-stand after
  
  To see the schematic and layout design of this project: https://youtu.be/E2SBVupF5sg
  
- To see how to use video: 
+ To see how to use video: https://youtu.be/DxNbs5W4KzA
  
 
   
